@@ -1,0 +1,21 @@
+app/code/local/Excellence/*								                            app/code/local/Excellence
+
+app/design/adminhtml/default/default/layout/custom.xml                              app/design/adminhtml/default/default/layout/custom.xml
+app/design/adminhtml/default/default/layout/file.xml                                app/design/adminhtml/default/default/layout/file.xml
+
+
+app/design/adminhtml/default/default/template/custom/*                              app/design/adminhtml/default/default/template/custom
+app/design/adminhtml/default/default/template/file/*                                app/design/adminhtml/default/default/template/file
+
+
+app/design/frontend/default/default/layout/custom.xml                               app/design/frontend/default/default/layout/custom.xml
+app/design/frontend/default/default/layout/file.xml                                 app/design/frontend/default/default/layout/file.xml
+
+app/design/frontend/default/default/template/custom/*                               app/design/frontend/default/default/template/custom
+app/design/frontend/default/default/template/file/*                                 app/design/frontend/default/default/template/file
+
+
+app/etc/modules/Excellence_Custom.xml               								app/etc/modules/Excellence_Custom.xml
+app/etc/modules/Excellence_File.xml               						            app/etc/modules/Excellence_File.xml
+
+skin/frontend/default/default/uploadify/*                                           skin/frontend/default/default/uploadify
